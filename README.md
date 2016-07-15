@@ -1,3 +1,3 @@
 # PowerShell
 PowerShell SIG of the NTPCUG
-- Larry Weiss, SIG Leader
+- Larry Weiss and Josh Miller, SIG Leaders
